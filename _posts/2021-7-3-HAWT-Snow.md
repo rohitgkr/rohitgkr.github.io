@@ -30,6 +30,9 @@ Assuming steady wind that's sufficiently horizontal in direction, a faling snow 
 
 The blue line depicts the induced alteration in trajectory of the snow flake in the presence of the DAWT. When the snow flake arrives in the vicinity of the DAWT it is likely to be sucked in. While particles that pass through the wind turbine will end up outside the road boundary to the right, a particle that does not pass through is likely to be impacted by a momentary suction force that alters its trajectory. As wind velocity is primarily horizontal this momentary force produces a horizontal acceleration. When the snow flake moves out of the sphere of significant influence of this momentary pressure force it continues in an altered parabolic trajectory. This is equivalent to a projectile that's launched horizontally from an initial height at the new velocity post momentary acceleration.
 
+Horizontal range of a projectile launched at velocity v and angle &theta; from horizontal & height z is given by
+(vcos&theta;/g)(vsin&theta; + &radic;v<sup>2</sup>sin<sup>2</sup>&radic; + 2gz)
+
 d = (w/g)&radic; 2gz
 
 # Nomenclature
