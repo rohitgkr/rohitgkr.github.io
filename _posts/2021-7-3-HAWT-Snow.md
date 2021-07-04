@@ -34,6 +34,6 @@ The blue line depicts the induced alteration in trajectory of the snow flake in 
 1. w: wind velocity @ 5m/s
 2. g: acceleration due to gravity @ 9.8 m/s<sup>2</sup>
 3. d: horizontal displacement from the point in the natural trajectory when the snow flake is at the height of the wind turbine
-4. &Rho; : Density of snow mixed with air @ 350-400 kg/m<sup>3</sup>
+4. &rho; : Density of snow mixed with air @ 350-400 kg/m<sup>3</sup>
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
