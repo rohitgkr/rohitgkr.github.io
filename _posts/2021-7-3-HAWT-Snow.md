@@ -3,7 +3,7 @@ layout: post
 title: Harnessing wind energy to keep roads clear of snow!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This post is inspired by a [VLOG (in Hindi)](https://www.youtube.com/watch?v=tBk9Ts6yxVY) from Sonam Wangchuk in which he was looking into an environmentaly friendly solution for clearing snow off roads in the Himalayan region of Ladakh in India. That got me thinking about the problem and the following is my high level solution that has the potential to harness wind energy as a viable mechanism that is also environment friendly.   For those who may not be aware, Sonam Wangchuk is an Indian mechanical engineer & winner of a long list of awards including Rolex, Magsaysay, UNESCO to name a few. He is well known founder of various institutions such as [LiveSimply](https://www.ilivesimply.org/), [Himalayan Institute of Alternatives](https://milaap.org/fundraisers/hial) and innovative products in the areas of environment & sustainable living.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
