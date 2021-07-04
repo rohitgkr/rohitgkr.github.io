@@ -31,7 +31,9 @@ Assuming steady wind that's sufficiently horizontal in direction, a faling snow 
 The blue line depicts the induced alteration in trajectory of the snow flake in the presence of the DAWT. When the snow flake arrives in the vicinity of the DAWT it is likely to be sucked in. While particles that pass through the wind turbine will end up outside the road boundary to the right, a particle that does not pass through is likely to be impacted by a momentary suction force that alters its trajectory. As wind velocity is primarily horizontal this momentary force produces a horizontal acceleration. When the snow flake moves out of the sphere of significant influence of this momentary pressure force it continues in an altered parabolic trajectory. This is equivalent to a projectile that's launched horizontally from an initial height at the new velocity post momentary acceleration.
 
 # Nomenclature
-1. w: wind velocity \@ 5m/s
-2. g: acceleration due to gravity \@ 9.8 m/s<sup>2</sup>
+1. w: wind velocity @ 5m/s
+2. g: acceleration due to gravity @ 9.8 m/s<sup>2</sup>
+3. d: horizontal displacement from the point in the natural trajectory when the snow flake is at the height of the wind turbine
+4. &Rho; : Density of snow mixed with air @ 350-400 kg/m<sup>3</sup>
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
