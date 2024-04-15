@@ -8,6 +8,8 @@ name: Rohit
 # Short bio or description (displayed in the header)
 description: Geeking out in engineering
 
+theme: jekyll-theme-architect
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: 
 
